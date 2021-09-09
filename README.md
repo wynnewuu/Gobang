@@ -3,4 +3,4 @@ A strategic chess game in which two people play against other. Usually the two s
 Game can be play PvP or Pv Ai     
 To run the game just download it and open it using Java. Make sure everything is in the same package.                                         
 Here is a video demonstrating the game                                          
-https://www.youtube.com/watch?v=SR2L6kREQ84
+https://youtu.be/X4fwPOu4OhU
