@@ -1,4 +1,4 @@
-# Gobang
+# Gobang The Strategic Chess Game
 A strategic chess game in which two people play against other.                   
 Usually the two sides use black and white chess pieces,             
 and take turns to play at the intersection of the vertical and horizontal lines of the board.               
