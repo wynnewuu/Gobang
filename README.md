@@ -7,4 +7,4 @@ Game can be play PvP or Pv Ai
 To run the game just download it and open it using Java. Make sure everything is in the same package.                
 
 Here is a video demonstrating the game                                          
-[![Everything Is AWESOME](https://imgur.com/Xp2eGed.png)](https://www.youtube.com/watch?v=X4fwPOu4OhU "Everything Is AWESOME")
+[![Everything Is AWESOME](https://imgur.com/crH37Ny)](https://www.youtube.com/watch?v=X4fwPOu4OhU "Everything Is AWESOME")
